@@ -1,0 +1,23 @@
+E:\Work List\JIYITECH.WebApi.ZhenHai-master\TESTSERVE\bin\Debug\TESTSERVE.exe.config
+E:\Work List\JIYITECH.WebApi.ZhenHai-master\TESTSERVE\bin\Debug\TESTSERVE.exe
+E:\Work List\JIYITECH.WebApi.ZhenHai-master\TESTSERVE\bin\Debug\TESTSERVE.pdb
+E:\Work List\JIYITECH.WebApi.ZhenHai-master\TESTSERVE\obj\Debug\TESTSERVE.csprojAssemblyReference.cache
+E:\Work List\JIYITECH.WebApi.ZhenHai-master\TESTSERVE\obj\Debug\TESTSERVE.Form1.resources
+E:\Work List\JIYITECH.WebApi.ZhenHai-master\TESTSERVE\obj\Debug\TESTSERVE.Properties.Resources.resources
+E:\Work List\JIYITECH.WebApi.ZhenHai-master\TESTSERVE\obj\Debug\TESTSERVE.csproj.GenerateResource.cache
+E:\Work List\JIYITECH.WebApi.ZhenHai-master\TESTSERVE\obj\Debug\TESTSERVE.csproj.CoreCompileInputs.cache
+E:\Work List\JIYITECH.WebApi.ZhenHai-master\TESTSERVE\obj\Debug\TESTSERVE.exe
+E:\Work List\JIYITECH.WebApi.ZhenHai-master\TESTSERVE\obj\Debug\TESTSERVE.pdb
+E:\Work List\A winForm Server Demo\TESTSERVE\bin\Debug\TESTSERVE.exe.config
+E:\Work List\A winForm Server Demo\TESTSERVE\bin\Debug\TESTSERVE.exe
+E:\Work List\A winForm Server Demo\TESTSERVE\bin\Debug\TESTSERVE.pdb
+E:\Work List\A winForm Server Demo\TESTSERVE\obj\Debug\TESTSERVE.csprojAssemblyReference.cache
+E:\Work List\A winForm Server Demo\TESTSERVE\obj\Debug\TESTSERVE.Form1.resources
+E:\Work List\A winForm Server Demo\TESTSERVE\obj\Debug\TESTSERVE.Properties.Resources.resources
+E:\Work List\A winForm Server Demo\TESTSERVE\obj\Debug\TESTSERVE.csproj.GenerateResource.cache
+E:\Work List\A winForm Server Demo\TESTSERVE\obj\Debug\TESTSERVE.csproj.CoreCompileInputs.cache
+E:\Work List\A winForm Server Demo\TESTSERVE\obj\Debug\TESTSERVE.exe
+E:\Work List\A winForm Server Demo\TESTSERVE\obj\Debug\TESTSERVE.pdb
+E:\Work List\A winForm Server Demo\TESTSERVE\bin\Debug\Newtonsoft.Json.dll
+E:\Work List\A winForm Server Demo\TESTSERVE\bin\Debug\Newtonsoft.Json.xml
+E:\Work List\A winForm Server Demo\TESTSERVE\obj\Debug\TESTSERVE.csproj.CopyComplete
